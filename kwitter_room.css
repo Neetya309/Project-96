@@ -1,0 +1,53 @@
+body {
+    background-color:blue;
+    color:black;
+}
+button {
+    background-color:white;
+    border-radius: 30px;
+    height: 30px;
+    width: 10%;
+    text-align: center;
+}
+button:hover {
+    background-color:brown;
+    color:white;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+input{
+    height:30px;
+    width: 10%;
+    text-align: left;
+}
+input:hover{
+    background-color: yellow;
+    border-color: red;
+}
+.logo {
+    height: 50px;
+    width: 50px;
+}
+#room_name {
+    height: 30px;
+    width: 40%;
+}
+#design {
+    background-color:beige;
+    border-radius: 30px;
+    width: 50%;
+    height: 50%;
+}
+#addroom {
+    width: 100px;
+}
+#output {
+    background-color: white;
+}
+.primary {
+    height: 20px;
+    width: 20px;
+}
+.primary:hover {
+    color: white;
+}

@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-image: URL("https://th.bing.com/th/id/R.512cf98c4dfe5fbdc1759fe7463f25c4?rik=dke5rvDyVYwLUw&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f7%2fb%2f1%2f1085609-simple-backgrounds-1920x1080-ipad-retina.jpg&ehk=MJAxZwVzMedMIA%2bYpy4%2bNR4OJXSbhF3JXsgz5YksXf8%3d&risl=&pid=ImgRaw&r=0");
+    color: rgb(6, 0, 0);
+    font-size: 20px;
+}
+#k {
+    height: 50px;
+}
+input {
+    width: 1000px;
+}
+input:hover {
+    background-color: yellow;
+    border:5px solid red;
+
+}
+button:hover {
+   text-decoration: underline;
+}
